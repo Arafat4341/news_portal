@@ -1,0 +1,18 @@
+.pbody img{
+	height: 320px;
+	width: 670px;
+}
+.left{
+	float: right;
+	padding-top: 55px;
+}
+.comment{
+	padding-top: 45px;
+}
+.comment h3{
+	padding-bottom: 15px;
+	color: #00AEFF;
+}
+.cbody{
+	border: 1px solid silver;
+}
